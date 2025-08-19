@@ -1,0 +1,9 @@
+{
+  "update": [ 
+    {
+      "version": "1.1",
+      "base64": "base64 here",
+      "checksum": "checksum here"
+    }
+  ] 
+}
